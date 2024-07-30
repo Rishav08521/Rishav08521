@@ -1,9 +1,9 @@
 ![logo](https://github.com/Rishav08521/Rishav08521/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400"src=" ">
+<img align="right" alt=" " length="100"src=" ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav08521&label=Profile%20views&color=0e75b6&style=flat" alt="rishav08521" /> </p>
+<p align="left"> <img src="https://github.com/Rishav08521/Rishav08521/blob/main/load.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/rishikeshroyri1" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rishikeshroyri1?logo=twitter&style=for-the-badge" alt="https://x.com/rishikeshroyri1" /></a> </p>
 
