@@ -1,4 +1,4 @@
-![logo](https://github.com/Rishav08521/Rishav08521/blob/main/banner.jpeg)
+![logo](https://github.com/Rishav08521/Rishav08521/blob/main/prof.png)
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt=" " length="100"src=" ">
