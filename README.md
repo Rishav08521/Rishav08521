@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **rk6854797@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eGtS-eG6tqjdJzwbAwH9iwa2gGAG08IY/view?usp=drivesdk](https://drive.google.com/file/d/1eGtS-eG6tqjdJzwbAwH9iwa2gGAG08IY/view?usp=drivesdk)
+- 📄 Know about my experience
+
 
 - ⚡ Fun fact **I am Funny😂**
 
